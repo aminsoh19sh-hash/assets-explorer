@@ -1,0 +1,16 @@
+{
+  "name": "minipc-explorer",
+  "version": "1.0.0",
+  "description": "مستكشف الأصول - يقرأ مجلد MiniPc (محليًا أو أونلاين)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^44.4.5"
+  }
+}
